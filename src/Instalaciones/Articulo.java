@@ -22,3 +22,5 @@ public class Articulo {
     /** El valor reserva es una lista de las reservas en las que puede estar dicho articulo */
     List<ReservaArticulo> reserva;
 }
+
+
